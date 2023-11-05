@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.04
 
 # install docker CLI
 RUN apt update
