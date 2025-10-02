@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 
 # install docker CLI
 RUN apt update
